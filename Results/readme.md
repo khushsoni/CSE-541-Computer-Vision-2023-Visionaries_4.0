@@ -1,0 +1,1 @@
+This folder has the validation and training images along with Result images. Also contains predicted video taken in the University Centre of Ahmedabad University.

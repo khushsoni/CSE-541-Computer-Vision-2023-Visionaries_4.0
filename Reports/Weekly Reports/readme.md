@@ -1,0 +1,1 @@
+This folder contains the weekly reports that are submitted throughout the semester. 
