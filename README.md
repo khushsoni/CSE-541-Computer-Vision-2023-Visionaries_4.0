@@ -3,6 +3,8 @@ Computer Vision Project
 
 Dataset: http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit
 
+![image](https://user-images.githubusercontent.com/81143064/232241948-64b5a5a0-6e0a-458e-b955-79d024e1fec7.png)
+
 ![confusion_matrix (1)](https://user-images.githubusercontent.com/81143064/232241852-003e705a-f4bf-4ff5-b6c0-4606df466ad8.png)
 
 References:
