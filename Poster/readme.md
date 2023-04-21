@@ -1,1 +1,1 @@
-This file contains Poster.
+This folder contains Poster.
